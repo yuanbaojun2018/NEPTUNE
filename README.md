@@ -40,19 +40,4 @@ python Neptune.py
 └── README.md
 ```
 
-## Citation
 
-If you find this work useful, please consider citing our paper:
-
-```bibtex
-@article{neptune2026,
-  title={NEPTUNE},
-  author={Author Names},
-  journal={TBD},
-  year={2026}
-}
-```
-
-## License
-
-This project is released under the MIT License.
